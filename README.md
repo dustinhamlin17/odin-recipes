@@ -1,0 +1,1 @@
+This project is a basic beginner website that I am building alongside The Odin Project. It will be ugly but I will come back later to spruce it up with some CSS.
